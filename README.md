@@ -6,4 +6,4 @@ reports, inadequate protocols, data hacking, and faulty systems are all common t
 in the media. The regulatory and economic contexts are becoming more stringent, 
 and risk management is more vital than ever. Data Science calculates risk probability 
 and impact assessment of the risk, and also the cost to business.
-In this task we are given dataset (in rar file). We need to help company for preventing risk.
+In this task we are given dataset (in zip file). We need to help company for preventing risk.
